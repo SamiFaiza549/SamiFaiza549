@@ -303,18 +303,9 @@ I'm passionate about using technology to create sustainable solutions and always
 
 ## 📊 Stats
 
-
-
-<div align="left">
-</div>
-
-<div align="right">
-</div>
-
-<p align="left" style="display: flex; gap: 20px; flex-wrap: wrap;">
+<p align="center" style="display: flex; gap: 20px; flex-wrap: wrap;">
+  <img width="47%" src="https://streak-stats.demolab.com?user=SamiFaiza549&theme=tokyonight&hide_border=true" />
   <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamiFaiza549&layout=compact&theme=tokyonight" />
-  <img width="340" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding gif" />
 </p>
-
 
 <br/>
