@@ -245,6 +245,11 @@ I'm passionate about using technology to create sustainable solutions and always
 - Worked under Professor Sedat's guidance to implement deep learning techniques
 - Achieved high accuracy in early detection of tomato plant pathogens
 
+### [Covid-19-Detection](https://github.com/SamiFaiza549/Covid-19-Detection)
+- Developed a custom CNN model (PDCOVIDNet) to classify chest X-ray images into COVID-19, pneumonia, or normal
+- Preprocessed and augmented medical image data to improve model generalization
+- Achieved reliable diagnostic accuracy by evaluating with confusion matrix and classification reports
+
 ### Dynamic Race Cars Game
 - Created a graphical project simulating animated car movement
 - Utilized Python and Canva design tools for visual elements
