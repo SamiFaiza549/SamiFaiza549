@@ -212,6 +212,45 @@ I'm passionate about using technology to create sustainable solutions and always
 
 <br/>
 
+## 🚀 Projects
+
+### [ExoVision UI](https://github.com/AsmSafone/ExoVision) - NASA Space Apps Hackathon 2024
+- Designed a web-based application for visualizing exoplanetary systems
+- Created intuitive interfaces for exploring space data
+- Participated in the global NASA hackathon challenge
+
+### [ThereForYou Platform](https://github.com/SamiFaiza549/flood-helpline) - Reflective Teens
+- Developed an aid coordination site for flood-affected communities in Bangladesh
+- Implemented resource mapping and need-based distribution system
+- Connected donors with affected communities to streamline relief efforts
+
+### [Tomato Leaf Disease Detection](https://github.com/SamiFaiza549/Tomato_Leaf_Disease_Detection_Project)
+- Built CNN model using TensorFlow to identify plant diseases
+- Worked under Professor Sedat's guidance to implement deep learning techniques
+- Achieved high accuracy in early detection of tomato plant pathogens
+
+### Dynamic Race Cars Game
+- Created a graphical project simulating animated car movement
+- Utilized Python and Canva design tools for visual elements
+- Implemented game mechanics including collision detection and scoring
+
+### Course Registration System - CS50 Final Project
+- Developed prototype using PHP, HTML, JavaScript, and CSS
+- Created user authentication and course selection interfaces
+- Implemented database for storing student and course information
+
+### Project Bright Stars
+- Coordinated a team-based outreach project for orphanage children
+- Provided resources for hygiene, mental well-being, and entertainment
+- Organized volunteer activities and resource distribution
+
+### Green City Model
+- Designed science fair project focused on sustainable urban planning
+- Created physical model demonstrating renewable energy integration
+- Presented environmental conservation concepts through interactive display
+
+<br/>
+
 ## 🌟 Extracurricular Activities
 
 ### 🤖 AUW Artificial Intelligence Society – Chittagong, Bangladesh
