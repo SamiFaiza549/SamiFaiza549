@@ -211,6 +211,34 @@ I'm passionate about using technology to create sustainable solutions and always
 </p>
 
 <br/>
+## 🌟 Extracurricular Activities
+
+### 🤖 AUW Artificial Intelligence Society – Chittagong, Bangladesh
+<i>Former President | 2023 – 2025</i>
+- 📈 Promoted from Vice President to President for leadership in organizing AI workshops
+- 🧠 Coordinated collaborations with Stanford graduate students
+- 🚀 Led initiatives including AI Hackathon Prep and introductory workshops
+- 🔗 Planned future projects involving AUW Laboratory School and global AI organizations
+
+### 🧮 AUW Math Society – Chittagong, Bangladesh
+<i>Former Vice President | 2023 – Current</i>
+- 🏆 Organized math workshops and competitions (e.g., Math Marathon)
+- 📚 Promoted interest and reduced anxiety toward mathematics
+- 👨‍🏫 Mentored peers for exams and Olympiads
+
+### 🏸 Sports Activities – Chittagong, Bangladesh
+- 🏸 Active in badminton and table tennis (intermediate level)
+- 🏀 Beginner-level basketball player
+
+### 💻 Scholastica Programming Club Tech Talk – Scholastica School, Dhaka
+<i>Guest Speaker</i>
+- 🎮 Conducted an online workshop on Game Development with Scratch
+- 👨‍💻 Taught core programming concepts to 15+ students
+- 🏅 Organized and judged a mini competition, selecting top 4 projects
+- 🔍 Evaluated projects based on creativity, logic, and presentation
+
+
+<br/>
 
 ## 📊 Stats
 
