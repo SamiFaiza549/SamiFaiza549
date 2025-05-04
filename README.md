@@ -68,47 +68,47 @@ I'm passionate about using technology to create sustainable solutions and always
 
 ### <a name="code-in-place"></a>🎓 Code In Place (CIP) – Stanford University
 <i>Teaching Assistant (Section Leader) | May 2025 – Present</i>
-- 🌟 Selected as a TA for Stanford University's global programming course
-- 👨‍🏫 Leading a diverse section of 15+ international students from Europe, Asia, and America
-- 💻 Teaching Python and Karel programming fundamentals through interactive sessions
-- 🤝 Providing personalized mentorship and technical guidance to support student growth
+- Selected as a TA for Stanford University's global programming course
+- Leading a diverse section of 15+ international students from Europe, Asia, and America
+- Teaching Python and Karel programming fundamentals through interactive sessions
+- Providing personalized mentorship and technical guidance to support student growth
 
 ### <a name="auw"></a>🧪 Asian University for Women (AUW)
 <i>Teaching & Research Assistant | 2022 – Present</i>
-- 🔬 Research Assistant in Natural Language Processing, working on multilingual euphemism detection
-- 📚 Teaching Assistant for Harvard's CS50 Introduction to Computer Science
-- 📊 Former TA for Probability and Statistics and Mathematics courses
-- 🌱 Served as Peer Leader for the Pre-UG Program
+- Research Assistant in Natural Language Processing, working on multilingual euphemism detection
+- Teaching Assistant for Harvard's CS50 Introduction to Computer Science
+- Former TA for Probability and Statistics and Mathematics courses
+- Served as Peer Leader for the Pre-UG Program
 
 ### <a name="reflective-teens"></a>🚀 Reflective Teens - RT
 <i>Assistant Project Coordinator | 2023 - Present</i>
-- 📈 Promoted from Executive Member and Data Analyst roles
-- 🎯 Leading community tech projects and organizing public events
-- 🎤 Acting as MC for organizational events and analyzing program data
+- Promoted from Executive Member and Data Analyst roles
+- Leading community tech projects and organizing public events
+- Acting as MC for organizational events and analyzing program data
 
-### <a name="technovista"></a>🎨 TechnoVista Limited
+### <a name="technovista"></a>👨‍💻 TechnoVista Limited
 <i>UX/UI Designer Intern | Dec 2024</i>
-- 🖌️ Designed UI for a Government Quality Information System
-- 🛒 Contributed to user-friendly e-commerce website design
-- 👥 Participated in development of user-centered software interfaces
+- Designed UI for a Government Quality Information System
+- Contributed to user-friendly e-commerce website design
+- Participated in development of user-centered software interfaces
 
 ### <a name="cu-research"></a>📝 Chittagong University Research & Higher Study Society
 <i>Research Intern | Sept 2023 - Dec 2023</i>
-- 📄 Co-authored projects in machine learning and data science
-- 🧹 Focused on dataset cleaning and preprocessing of Bengali datasets
-- 🏷️ Contributed to data annotation efforts for research projects
+- Co-authored projects in machine learning and data science
+- Focused on dataset cleaning and preprocessing of Bengali datasets
+- Contributed to data annotation efforts for research projects
 
 ### <a name="iwb"></a>🌱 Institute of Wellbeing (IWB)
 <i>Intern | Dec 2023</i>
-- 👥 Participated in leadership development workshops
-- 📺 Joined live talk show discussions on pressing social issues
-- 🎬 Created awareness materials for social media campaigns
+- Participated in leadership development workshops
+- Joined live talk show discussions on pressing social issues
+- Created awareness materials for social media campaigns
 
 ### <a name="bils"></a>📊 Bangladesh Institute of Labour Studies (BILS)
 <i>Data Enumerator & Analyst | Aug 2022 - Jan 2023</i>
-- 📋 Collected field data from various labor sectors in Chittagong
-- 📉 Analyzed labor data using R and SPSS statistical software
-- 📑 Supported research initiatives focused on labor conditions
+- Collected field data from various labor sectors in Chittagong
+- Analyzed labor data using R and SPSS statistical software
+- Supported research initiatives focused on labor conditions
 
 
 <br/>
@@ -271,27 +271,27 @@ I'm passionate about using technology to create sustainable solutions and always
 
 ### 🤖 AUW Artificial Intelligence Society – Chittagong, Bangladesh
 <i>Former President | 2023 – 2025</i>
-- 📈 Promoted from Vice President to President for leadership in organizing AI workshops
-- 🧠 Coordinated collaborations with Stanford graduate students
-- 🚀 Led initiatives including AI Hackathon Prep and introductory workshops
-- 🔗 Planned future projects involving AUW Laboratory School and global AI organizations
+- Promoted from Vice President to President for leadership in organizing AI workshops
+- Coordinated collaborations with Stanford graduate students
+- Led initiatives including AI Hackathon Prep and introductory workshops
+- Planned future projects involving AUW Laboratory School and global AI organizations
 
 ### 🧮 AUW Math Society – Chittagong, Bangladesh
 <i>Former Vice President | 2023 – Current</i>
-- 🏆 Organized math workshops and competitions (e.g., Math Marathon)
-- 📚 Promoted interest and reduced anxiety toward mathematics
-- 👨‍🏫 Mentored peers for exams and Olympiads
+- Organized math workshops and competitions (e.g., Math Marathon)
+- Promoted interest and reduced anxiety toward mathematics
+- Mentored peers for exams and Olympiads
 
 ### 🏸 Sports Activities – Chittagong, Bangladesh
-- 🏸 Active in badminton and table tennis (intermediate level)
-- 🏀 Beginner-level basketball player
+- Active in badminton and table tennis (intermediate level)
+- Beginner-level basketball player
 
 ### 💻 Scholastica Programming Club Tech Talk – Scholastica School, Dhaka
 <i>Guest Speaker</i>
-- 🎮 Conducted an online workshop on Game Development with Scratch
-- 👨‍💻 Taught core programming concepts to 15+ students
-- 🏅 Organized and judged a mini competition, selecting top 4 projects
-- 🔍 Evaluated projects based on creativity, logic, and presentation
+- Conducted an online workshop on Game Development with Scratch
+- Taught core programming concepts to 15+ students
+- Organized and judged a mini competition, selecting top 4 projects
+- Evaluated projects based on creativity, logic, and presentation
 
 
 <br/>
