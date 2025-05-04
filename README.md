@@ -18,18 +18,34 @@ I'm passionate about using technology to create sustainable solutions and always
 
 <br/>
 
-## 🚀 Current overview
+## 🚀 My Current Overview
 
-- 🔭 Currently diving into **Competitive Programming** (CP)  
-- 🛠️ **Technologies I'm Comfortable With**:
- - ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
- - ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-  - ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-  - ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?logo=huggingface&logoColor=black)
- - ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
- - ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)
-- 🤝 Looking to collaborate on **Open Source Projects**  
-- 🌱 Always learning and improving in the world of **Software Development**
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
+  <div style="flex: 1 1 300px; min-width: 300px; padding: 10px; text-align: left;">
+    <ul align="left" style="list-style-type: none; padding-left: 0;">
+      <li>🔭 Currently diving into <b>Competitive Programming</b> (CP)</li>
+      <li>🛠️ <b>Technologies I'm Comfortable With</b>:</li>
+      <li style="margin: 5px 0;">
+        <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white" />
+        <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white" />
+        <img src="https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikit-learn&logoColor=white" />
+      </li>
+      <li style="margin: 5px 0;">
+        <img src="https://img.shields.io/badge/-C++-00599C?logo=c%2b%2b&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white" />
+        <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white" />
+      </li>
+      <li style="margin: 5px 0;">
+        <img src="https://img.shields.io/badge/-HuggingFace-FFD21F?logo=huggingface&logoColor=black" />
+        <img src="https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white" />
+      </li>
+      <li>🤝 Looking to collaborate on <b>Open Source Projects</b></li>
+      <li>🌱 Always learning and improving in the world of <b>Software Development</b></li>
+    </ul>
+  </div>
+</div>
 
 <br/>
 
@@ -282,12 +298,18 @@ I'm passionate about using technology to create sustainable solutions and always
 
 ## 📊 Stats
 
-<!-->
+
+
+<div align="left">
+</div>
+
+<div align="right">
+</div>
 
 <p align="left" style="display: flex; gap: 20px; flex-wrap: wrap;">
-  
-  <img width="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamiFaiza549&layout=compact&theme=tokyonight" />
-
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamiFaiza549&layout=compact&theme=tokyonight" />
+  <img width="340" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding gif" />
 </p>
+
 
 <br/>
