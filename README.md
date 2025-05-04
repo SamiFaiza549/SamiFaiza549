@@ -211,6 +211,7 @@ I'm passionate about using technology to create sustainable solutions and always
 </p>
 
 <br/>
+
 ## 🌟 Extracurricular Activities
 
 ### 🤖 AUW Artificial Intelligence Society – Chittagong, Bangladesh
