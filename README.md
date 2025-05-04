@@ -33,6 +33,70 @@ I'm passionate about using technology to create sustainable solutions and always
 
 <br/>
 
+
+## 💼 Experience
+
+<div align="center">
+
+| Organization | Position | Period |
+|:--|:--|:--|
+| **[Stanford University](#code-in-place)** | Teaching Assistant | May 2025 - Present |
+| **[Asian University for Women](#auw)** | Teaching & Research Assistant | 2022 - Present |
+| **[Reflective Teens - RT](#reflective-teens)** | Assistant Project Coordinator | 2023 - Present |
+| **[TechnoVista Limited](#technovista)** | UX/UI Designer Intern | Dec 2024 |
+| **[Chittagong University Research Society](#cu-research)** | Research Intern | Sept 2023 - Dec 2023 |
+| **[Institute of Wellbeing](#iwb)** | Intern | Dec 2023 |
+| **[Bangladesh Institute of Labour Studies](#bils)** | Data Enumerator & Analyst | Aug 2022 - Jan 2023 |
+
+</div>
+
+### <a name="code-in-place"></a>🎓 Code In Place (CIP) – Stanford University
+<i>Teaching Assistant (Section Leader) | May 2025 – Present</i>
+- 🌟 Selected as a TA for Stanford University's global programming course
+- 👨‍🏫 Leading a diverse section of 15+ international students from Europe, Asia, and America
+- 💻 Teaching Python and Karel programming fundamentals through interactive sessions
+- 🤝 Providing personalized mentorship and technical guidance to support student growth
+
+### <a name="auw"></a>🧪 Asian University for Women (AUW)
+<i>Teaching & Research Assistant | 2022 – Present</i>
+- 🔬 Research Assistant in Natural Language Processing, working on multilingual euphemism detection
+- 📚 Teaching Assistant for Harvard's CS50 Introduction to Computer Science
+- 📊 Former TA for Probability and Statistics and Mathematics courses
+- 🌱 Served as Peer Leader for the Pre-UG Program
+
+### <a name="reflective-teens"></a>🚀 Reflective Teens - RT
+<i>Assistant Project Coordinator | 2023 - Present</i>
+- 📈 Promoted from Executive Member and Data Analyst roles
+- 🎯 Leading community tech projects and organizing public events
+- 🎤 Acting as MC for organizational events and analyzing program data
+
+### <a name="technovista"></a>🎨 TechnoVista Limited
+<i>UX/UI Designer Intern | Dec 2024</i>
+- 🖌️ Designed UI for a Government Quality Information System
+- 🛒 Contributed to user-friendly e-commerce website design
+- 👥 Participated in development of user-centered software interfaces
+
+### <a name="cu-research"></a>📝 Chittagong University Research & Higher Study Society
+<i>Research Intern | Sept 2023 - Dec 2023</i>
+- 📄 Co-authored projects in machine learning and data science
+- 🧹 Focused on dataset cleaning and preprocessing of Bengali datasets
+- 🏷️ Contributed to data annotation efforts for research projects
+
+### <a name="iwb"></a>🌱 Institute of Wellbeing (IWB)
+<i>Intern | Dec 2023</i>
+- 👥 Participated in leadership development workshops
+- 📺 Joined live talk show discussions on pressing social issues
+- 🎬 Created awareness materials for social media campaigns
+
+### <a name="bils"></a>📊 Bangladesh Institute of Labour Studies (BILS)
+<i>Data Enumerator & Analyst | Aug 2022 - Jan 2023</i>
+- 📋 Collected field data from various labor sectors in Chittagong
+- 📉 Analyzed labor data using R and SPSS statistical software
+- 📑 Supported research initiatives focused on labor conditions
+
+
+<br/>
+
 ## 🌐 Socials
 
 <p align="center">
