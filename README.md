@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img width="100%" src="faiza-banner.png" alt="GitHub Banner"/>
+  <img width="100%" src="banner.png" alt="GitHub Banner"/>
 </p>
 
 <br/>
